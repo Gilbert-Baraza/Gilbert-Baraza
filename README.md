@@ -17,25 +17,25 @@ Passionate about creating solutions that solve everyday problems.
 
 ### 🏠 Hostels Connect
 A platform that connects students with available hostels.  
-👉 https://your-link-here  
+👉 https://github.com/Gilbert-Baraza/Hostels-Connect
 
 ---
 
 ## 🛒 Kibu Market
 A campus marketplace for buying and selling items.  
-👉 https://your-link-here  
+👉 https://github.com/Gilbert-Baraza/Kibu-market  
 
 ---
 
-### 🛍️ E-commerce Backend
+### 🛍️ E-commerce Website
 Backend system for managing products and users.  
-👉 https://your-link-here  
+👉 https://github.com/Gilbert-Baraza/House-Of-Bore
 
 ---
 
 ## 📫 Contact Me
 
-- Email: your-email@gmail.com  
+- Email: barazagilbert4@gmail.com  
 - GitHub: https://github.com/Gilbert-Baraza  
 
 ---
