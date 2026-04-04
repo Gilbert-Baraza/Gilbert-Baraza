@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Gilbert Baraza
+🎓 Computer Science Student | 💻 Software Developer | 🚀 Problem Solver  
 
-<!--
-**Gilbert-Baraza/Gilbert-Baraza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build real-world web applications using JavaScript, Node.js,django and MongoDB.  
+Passionate about creating solutions that solve everyday problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- **Languages:**  Python,Java,JavaScript 
+- **Frontend:** HTML, CSS  
+- **Backend:** Node.js, Express.js,Django  
+- **Database:** MongoDB  
+- **Tools:** Git, GitHub, VS Code 
+## 🚀 Projects
+
+### 🏠 Hostels Connect
+A platform that connects students with available hostels.  
+👉 https://your-link-here  
+
+---
+
+## 🛒 Kibu Market
+A campus marketplace for buying and selling items.  
+👉 https://your-link-here  
+
+---
+
+### 🛍️ E-commerce Backend
+Backend system for managing products and users.  
+👉 https://your-link-here  
+
+---
+
+## 📫 Contact Me
+
+- Email: your-email@gmail.com  
+- GitHub: https://github.com/Gilbert-Baraza  
+
+---
+
+⭐ Always learning. Always building.
