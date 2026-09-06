@@ -46,7 +46,9 @@ Backend system for managing products and users.
 ## 📫 Contact Me
 
 - Email: barazagilbert4@gmail.com  
-- GitHub: https://github.com/Gilbert-Baraza  
+- GitHub: https://github.com/Gilbert-Baraza
+- Linkedin: www.linkedin.com/in/gilbert-baraza
+ 
 
 ---
 
