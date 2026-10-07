@@ -14,7 +14,7 @@ Passionate about creating solutions that solve everyday problems.
 A production-grade, centralized web-based Point of Sale (POS) and Business Management System tailored for retail wine and spirits businesses operating across multiple shop branches.
 👉 [View Project](https://github.com/Gilbert-Baraza/Wine_Spirits_POS)
 
-###Job Board API
+### Job Board API
 A production-oriented RESTful Job Board API built with Node.js, Express.js, and PostgreSQL.
 The API allows candidates to discover jobs and submit applications, while companies can create and manage job listings, review applicants, and manage the hiring process.
 👉 [View Project](https://github.com/Gilbert-Baraza/job_board)
