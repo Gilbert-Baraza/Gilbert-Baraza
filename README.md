@@ -50,7 +50,8 @@ Backend system for managing products and users.
 ---
 ## 📫 Contact Me
 
-- Email: barazagilbert4@gmail.com  
+- Email: barazagilbert4@gmail.com
+- Portfolio: https://portfolio-gamma-mocha-44.vercel.app/
 - GitHub: https://github.com/Gilbert-Baraza
 - Linkedin: www.linkedin.com/in/gilbert-baraza
  
